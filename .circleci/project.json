@@ -1,0 +1,11 @@
+{
+  "name": "not-working",
+  "targets": {
+    "say-hello": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "echo hello"
+      }
+    }
+  }
+}
